@@ -61,7 +61,7 @@ author:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      # url: "https://"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: # "https://twitter.com/"
@@ -90,7 +90,7 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: double
       author_profile: true
       read_time: true
       comments: true
